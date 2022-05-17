@@ -75,7 +75,12 @@
     scroll-behavior: smooth;
   }
 }
-
+.responsive {
+  max-width: 100%;
+  height: auto;
+  position: center;
+    
+}
 body {
   margin: 0;
   font-family: var(--bs-body-font-family);
